@@ -12,5 +12,5 @@ plugins {
 sweetProperty {
     rootProject { all { isEnable = false } }
 }
-rootProject.name = "FileSpiltter"
+rootProject.name = "FileSplitter"
 include(":app")
